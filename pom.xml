@@ -28,19 +28,6 @@
             <version>2.11.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>codes.laivy</groupId>
-            <artifactId>java-address</artifactId>
-            <version>1.2.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/java-address-1.2.1.jar</systemPath>
-        </dependency>
-
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>2.0.13</version>
-        </dependency>
     </dependencies>
 
     <properties>
